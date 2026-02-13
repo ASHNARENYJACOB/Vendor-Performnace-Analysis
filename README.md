@@ -1,0 +1,1 @@
+End‑to‑end vendor performance analytics project using SQL, Python, and Power BI. Evaluates vendor sales, purchases, and inventory to identify top vendors, low performers, and data‑driven actions to improve profitability and inventory efficiency.
